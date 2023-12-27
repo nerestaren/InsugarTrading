@@ -410,8 +410,8 @@
      */
     const name = "Insugar Trading";
     const version = version$1; // Semantic versioning
-    const GameVersion = "2.031";
-    const CCSEVersion = "2.026";
+    const GameVersion = "2.052";
+    const CCSEVersion = "2.035";
     let isLoaded = false;
     function save() {
         return JSON.stringify({
