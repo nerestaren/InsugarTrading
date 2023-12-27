@@ -183,7 +183,7 @@
         return sum / observations;
     }
 
-    var version$1 = "1.4.0";
+    var version$1 = "1.4.1";
 
     /* Houses the settings object
      * and the code that creates the submenu in Options.
